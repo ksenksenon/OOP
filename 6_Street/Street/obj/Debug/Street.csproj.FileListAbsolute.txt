@@ -1,0 +1,9 @@
+C:\Users\Ксения\documents\visual studio 2017\Projects\Street\Street\bin\Debug\Street.exe.config
+C:\Users\Ксения\documents\visual studio 2017\Projects\Street\Street\bin\Debug\Street.exe
+C:\Users\Ксения\documents\visual studio 2017\Projects\Street\Street\bin\Debug\Street.pdb
+C:\Users\Ксения\documents\visual studio 2017\Projects\Street\Street\obj\Debug\Street.csprojResolveAssemblyReference.cache
+C:\Users\Ксения\documents\visual studio 2017\Projects\Street\Street\obj\Debug\Street.Form1.resources
+C:\Users\Ксения\documents\visual studio 2017\Projects\Street\Street\obj\Debug\Street.Properties.Resources.resources
+C:\Users\Ксения\documents\visual studio 2017\Projects\Street\Street\obj\Debug\Street.csproj.GenerateResource.Cache
+C:\Users\Ксения\documents\visual studio 2017\Projects\Street\Street\obj\Debug\Street.exe
+C:\Users\Ксения\documents\visual studio 2017\Projects\Street\Street\obj\Debug\Street.pdb

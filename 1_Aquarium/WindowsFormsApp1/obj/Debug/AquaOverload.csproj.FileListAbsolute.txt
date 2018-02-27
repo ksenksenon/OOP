@@ -1,0 +1,18 @@
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\Aquarium overload\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\Aquarium overload\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\Aquarium overload\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\Aquarium overload\WindowsFormsApp1\obj\Debug\AquaOverload.csprojResolveAssemblyReference.cache
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\Aquarium overload\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\Aquarium overload\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\Aquarium overload\WindowsFormsApp1\obj\Debug\AquaOverload.csproj.GenerateResource.Cache
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\Aquarium overload\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\Aquarium overload\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Aquarium overload\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Aquarium overload\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Aquarium overload\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Aquarium overload\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Aquarium overload\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Aquarium overload\WindowsFormsApp1\obj\Debug\AquaOverload.csprojResolveAssemblyReference.cache
+E:\Aquarium overload\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Aquarium overload\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Aquarium overload\WindowsFormsApp1\obj\Debug\AquaOverload.csproj.GenerateResource.Cache

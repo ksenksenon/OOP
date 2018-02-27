@@ -1,0 +1,12 @@
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\MatrixData\MatrixData\bin\Debug\MatrixData.exe.config
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\MatrixData\MatrixData\bin\Debug\MatrixData.exe
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\MatrixData\MatrixData\bin\Debug\MatrixData.pdb
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\MatrixData\MatrixData\obj\Debug\MatrixData.csprojResolveAssemblyReference.cache
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\MatrixData\MatrixData\obj\Debug\MatrixData.Form1.resources
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\MatrixData\MatrixData\obj\Debug\MatrixData.Properties.Resources.resources
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\MatrixData\MatrixData\obj\Debug\MatrixData.csproj.GenerateResource.Cache
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\MatrixData\MatrixData\obj\Debug\MatrixData.exe
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\MatrixData\MatrixData\obj\Debug\MatrixData.pdb
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\3_MatrixData\MatrixData\bin\Debug\MatrixData.exe.config
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\3_MatrixData\MatrixData\obj\Debug\MatrixData.exe
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\3_MatrixData\MatrixData\obj\Debug\MatrixData.pdb

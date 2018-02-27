@@ -1,0 +1,3 @@
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\1_Aquarium\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\1_Aquarium\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ксения\Documents\Visual Studio 2017\Projects\1_Aquarium\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

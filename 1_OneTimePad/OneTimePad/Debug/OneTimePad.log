@@ -1,0 +1,6 @@
+﻿  OneTimePad.cpp
+c:\users\ксения\documents\visual studio 2017\projects\onetimepad\onetimepad\onetimepad.cpp(82): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ксения\documents\visual studio 2017\projects\onetimepad\onetimepad\onetimepad.cpp(110): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ксения\documents\visual studio 2017\projects\onetimepad\onetimepad\onetimepad.cpp(151): warning C4018: <: несоответствие типов со знаком и без знака
+  OneTimePad.vcxproj -> C:\Users\Ксения\documents\visual studio 2017\Projects\OneTimePad\Debug\OneTimePad.exe
+  OneTimePad.vcxproj -> C:\Users\Ксения\documents\visual studio 2017\Projects\OneTimePad\Debug\OneTimePad.pdb (Partial PDB)
